@@ -18,4 +18,7 @@ This repository curates graduate/undergraduate research mentorship programs and 
 | [Fatima Fellowship](https://www.fatimafellowship.com/) | Nov-Dec (every year) | Open to global applicants; 9-month program remotely (online); for aspiring researchers in computer science |
 | [AAPM Global Research Mentorship Program (GREMP) Fellowships](https://aapm.secure-platform.com/gaf/) | TBD | Open to global applicants/for resource-limited country conducting medical physics research; for graduate-level students |
 | [The Cornell, Maryland, Max Planck Pre-doctoral Research School in Computer Science (CMMRS 2026)](https://cmmrs.mpi-sws.org/) | February 14, 2026 | Open to global applicants/for undergraduate and Master’s students from around the world; one-week immersive pre-doctoral research school; travel funding available; organized every year |
+| [Study in Canada Scholarships (SICS)]([https://cmmrs.mpi-sws.org/](https://www.educanada.ca/scholarships-bourses/can/institutions/study-in-canada-sep-etudes-au-canada-pct.aspx?lang=eng)) | March | Open to global applicants/for undergraduate and Master’s students from around the world (check country list); 4-6 months study or research; funding available; organized every year |
+
+
 
