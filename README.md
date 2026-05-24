@@ -5,7 +5,7 @@ This repository curates graduate and undergraduate research mentorship programs,
 ---
 
 ## Table of Contents
-- [Mentorship Programs](#programs)
+- [Mentorship Programs](#mentorship-programs)
   - [North America](#north-america)
   - [Europe](#europe)
   - [Asia](#asia)
