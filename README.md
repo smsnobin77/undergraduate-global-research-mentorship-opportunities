@@ -1,13 +1,14 @@
 # Graduate Global Research Mentorship Opportunities
 
-This repository curates graduate/undergraduate research mentorship programs and research opportunities that are open to international or global students. It provides a central, periodically updated list of program names, deadlines, and brief notes. Updates are maintained on a best-effort basis, and contributions are welcome. Please feel free to submit a pull request or open an issue. 
+This repository curates graduate and undergraduate research mentorship programs, fellowships, and short-term academic research opportunities that are open to international students. It provides a centralized and periodically updated collection of programs across computer science, AI, data science, and related fields, including deadlines, eligibility notes, funding information, and official links. Programs are organized by continent and listed alphabetically within each region. Updates are maintained on a best-effort basis, and contributions are welcome through pull requests or issues.
 
 ---
 
 ## Table of Contents
 - [Mentorship Programs](#programs)
-
----
+  - [North America](#north-america)
+  - [Europe](#europe)
+  - [Asia](#asia)
 
 ## Mentorship Programs
 
